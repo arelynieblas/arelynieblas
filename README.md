@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Arely Nieblas
 
+🎓 I’m currently working on getting my bachelor's degree in computer engineering from SDSU
+🌱 I’m currently learning databases and web development, microprocessors, and signals and systems
+🤔 I’m looking for help with finding projects I can work on myself for practice
+⚡ Fun fact: I love helping people! 
 <!--
 **arelynieblas/arelynieblas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
